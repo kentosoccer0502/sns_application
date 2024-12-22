@@ -1,1 +1,12 @@
 venv/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# その他の設定
+*.env
+*.log
+*.sqlite3
+*.swp
